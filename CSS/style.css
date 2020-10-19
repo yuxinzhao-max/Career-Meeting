@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Vollkorn&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Vollkorn', serif;
+	font-size: 18px;
+	margin: 18px;
+}
+h1,h2,h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}

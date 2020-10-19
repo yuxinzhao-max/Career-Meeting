@@ -1,0 +1,19 @@
+.banner{
+	background-image: linear-gradient(290deg,rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.1) 50%), url("../../images/jobfinder.jpg");
+    color: white;
+    padding: 150px 0px;
+    background-size: cover;
+    background-position: center;    
+}
+
+.banner h1{
+	font-size: 35px;
+
+}
+
+.banner h2{
+	font-size: 12px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
